@@ -1,5 +1,6 @@
 Diamonds Sale Data
-https://www.kaggle.com/datasets/sahilnbajaj/diamonds-sale-data
+
+https://www.kaggle.com/code/kamilshaydullin/price-prediction-lr-ann-gbr-mape-0-79
 
 #### We have a big dataset made up of 53490 diamond sales entries which we can use to train a predictive model.
 #### An effective predictive model can be used to accurately price diamonds given we have all of the diamond features that the model has been trained on.
