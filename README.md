@@ -14,8 +14,6 @@ https://www.kaggle.com/code/kamilshaydullin/price-prediction-lr-ann-gbr-mape-0-7
 
 #### **GBR** turned out to be the most accurate model with **MAPE = 0.79%**
 
-**GBR** turned out to be the most accurate model with **MAPE = 0.79%**
-
 ### Diamond characteristics / Features:
 
 **Color** - In the data set: D (Absolutely Colorless), E (Colorless), F (Colorless), G (Near Colorless), H (Near Colorless), I (Near Colorless), J (Near Colorless). D = best, J = worst.
